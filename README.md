@@ -1,1 +1,1 @@
-# rambling_soul
+A collection of code I write in unusual places to kill the time. The codes here does not represent the views of [me] - of course they don't - they were codes written on the bus, at a social gathering, in a restaurant etc.
