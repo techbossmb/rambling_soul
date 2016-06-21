@@ -17,8 +17,6 @@ public class UniqueInteger{
         return -1;
     }
     public static void main(String[] args) {
-        // run your function through some test cases here
-        // remember: debugging is half the battle!
         int[] testInput = {2,4,2,9,7,4,9};
         System.out.println(findUniqueInteger(testInput));
     }
