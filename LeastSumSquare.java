@@ -1,5 +1,6 @@
 import java.util.*;
-/* Coded on Google Nexus 5 
+/** Coded on Google Nexus 5 at a live music concert 
+* Given a number, find the least number if squares combinations that  add up to that number 
 * @author: Ishola Babatunde 
 */
 public class Program
